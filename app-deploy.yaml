@@ -6,7 +6,6 @@ metadata:
     authoritative-source-url: registry.access.redhat.com
   labels:
     image.opencontainers.org/title: quote-backend
-    app: insurance-quote
     stack.appsody.dev/id: java-spring-boot2
     stack.appsody.dev/version: 0.3.29
   name: quote-backend
